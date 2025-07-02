@@ -1,1 +1,1 @@
-# Sleep-Heal-th-and-Lifestyle-Prediction
+# Sleep-Health-and-Lifestyle-Prediction
